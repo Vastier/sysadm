@@ -1,0 +1,12 @@
+https://www.petri.com/deploy-windows-10-using-mdt-wds-part-1-create-mdt-deployment-share
+
+https://www.reddit.com/r/sysadmin/wiki/ms/image
+
+https://scriptimus.wordpress.com/2013/02/18/lti-deployments-skipping-deployment-wizard-panes/
+
+https://xenappblog.com/2015/how-to-use-chocolatey-with-mdt-2013/
+
+https://chocolatey.org/docs/installation#install-using-powershell-from-cmdexe
+
+https://jonconwayuk.wordpress.com/2013/08/14/oem-alternative-in-mdt-2012-u1/
+
