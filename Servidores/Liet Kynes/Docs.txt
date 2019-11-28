@@ -11,3 +11,7 @@ https://chocolatey.org/docs/installation#install-using-powershell-from-cmdexe
 https://jonconwayuk.wordpress.com/2013/08/14/oem-alternative-in-mdt-2012-u1/
 
 https://web.sas.upenn.edu/jasonrw/2015/11/03/automate-the-install-of-microsoft-office-2016-with-an-msp-file/
+(Se não auto-ativar: https://techallan.blogspot.com/2015/10/microsoft-office-2016-and-autoactivate.html )
+
+Configurar o Offie no MDT:
+https://theitbros.com/deploy-office-2016-using-mdt-2013/
