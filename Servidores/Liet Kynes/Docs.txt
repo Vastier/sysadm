@@ -15,3 +15,6 @@ https://web.sas.upenn.edu/jasonrw/2015/11/03/automate-the-install-of-microsoft-o
 
 Configurar o Offie no MDT:
 https://theitbros.com/deploy-office-2016-using-mdt-2013/
+
+
+https://chocolatey.org/docs/how-to-setup-offline-installation
